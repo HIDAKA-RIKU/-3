@@ -1,0 +1,12 @@
+.Title {
+    text-align: center;
+    font-style: italic;
+}
+.image_move {
+    display: grid;
+    place-items: center; /* 水平・垂直方向に中央 */
+}
+.image {
+    width: 150px;
+    height: 150px;
+}
